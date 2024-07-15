@@ -1,0 +1,44 @@
+[
+    {
+        "brand": "Nike",
+        "image": "http://assets.myntassets.com/assets/images/13762904/2021/4/5/1e74e7fa-d0a2-4eb7-86a1-26532bf8be7b1617630036300-Nike-React-Infinity-Run-Flyknit-2-Mens-Running-Shoe-60016176-1.jpg",
+        "productName": "Men REACT INFINITY RUN Shoes",
+        "price": 14495,
+        "productId": 13762904
+    },
+    {
+        "brand": "Nike",
+        "image": "http://assets.myntassets.com/assets/images/13935492/2021/4/17/f3fc0e61-5dd6-4206-add8-45503b30cbc51618649700221-Nike-Sportswear-Club-Mens-French-Terry-Cuffed-Pants-41116186-1.jpg",
+        "productName": "Men Straight CUFFED Joggers",
+        "price": 2595,
+        "productId": 13935492
+    },
+    {
+        "brand": "Nike",
+        "image": "http://assets.myntassets.com/assets/images/12738440/2020/11/24/e6060850-14b6-4dc3-bf3a-b0a81ed5983c1606203566500-Nike-Air-Zoom-Structure-23-Mens-Running-Shoe-241606203565067-1.jpg",
+        "productName": "Men AIR ZOOM Running Shoes",
+        "price": 7721,
+        "productId": 12738440
+    },
+    {
+        "brand": "Nike",
+        "image": "http://assets.myntassets.com/assets/images/13762708/2021/4/6/25430483-33b9-4a48-af4e-b5b66292ff671617712825114-Nike-Men-Black--Red-ZOOM-SPAN-3-Running-Shoes-36816177128237-1.jpg",
+        "productName": "Men ZOOM SPAN 3 Running Shoes",
+        "price": 5396,
+        "productId": 13762708
+    },
+    {
+        "brand": "Nike",
+        "image": "http://assets.myntassets.com/assets/images/productimage/2021/6/14/fb0062bb-4eaa-4c55-b57b-4dc0fcfb6b751623666878807-1.jpg",
+        "productName": "Men 2Pcs Spicy Deodorants",
+        "price": 538,
+        "productId": 14531140
+    },
+    {
+        "brand": "Nike",
+        "image": "http://assets.myntassets.com/assets/images/14028776/2021/5/17/ccb5d8cc-889f-42ea-bdfe-8cdbd63f8d7e1621251953298-Nike-Sportswear-Mens-T-Shirt-7661621251948423-1.jpg",
+        "productName": "NSW TEE FESTIVAL JDI T-shirt",
+        "price": 1795,
+        "productId": 14028776
+    }
+]
